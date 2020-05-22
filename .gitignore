@@ -1,0 +1,6 @@
+moneyproj/db.sqlite3
+venv/
+.vscode/
+.idea/
+.vscode/
+.DS_Store
